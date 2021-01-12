@@ -1,0 +1,7 @@
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\bin\Debug\BettingApp.exe.config
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\bin\Debug\BettingApp.exe
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\bin\Debug\BettingApp.pdb
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\obj\Debug\BettingApp.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\obj\Debug\BettingApp.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\obj\Debug\BettingApp.exe
+C:\Users\rober\OneDrive\projects\cs\BettingApp\BettingApp\obj\Debug\BettingApp.pdb

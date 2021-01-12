@@ -1,4 +1,4 @@
-﻿namespace MoneyTransfer
+﻿namespace BettingApp
 {
     internal class Guy
     {
